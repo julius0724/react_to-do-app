@@ -7,10 +7,10 @@ The core functionality includes creating, updating, removing tasks, and completi
 
 ### Technologies Used
 
-- **HTML5**
-- **SCSS**
-- **TypeScript**
-- **React**
+- **HTML5** - semantic structure of the app
+- **SCSS** - modular and maintainable styling
+- **TypeScript** - type safety scalability
+- **React** - component-based architecture and efficient UI rendering
 
 ### Features
 
