@@ -26,7 +26,7 @@ The core functionality includes creating, updating, removing tasks, and completi
 
 ### Live Demo
 
-[**Live webapp**](https://github.com/julius0724/react_to-do-app.git)
+[**Live webapp**](https://julius0724.github.io/react_to-do-app)
 
 ### How to Set Up the Project Locally:
 
